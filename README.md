@@ -52,7 +52,7 @@ Solidity v0.4.24 (solc-js)
 
 
 #### Deployed on Rinkeby test network
-Contract: [0xef9fc9b61522420a74b65b1d552b95c1743c14c3](https://rinkeby.etherscan.io/address/0xef9fc9b61522420a74b65b1d552b95c1743c14c3)  
+Contract: [0xb037c9cf7376bd61494684408c90c748a88bde04](https://rinkeby.etherscan.io/address/0xb037c9cf7376bd61494684408c90c748a88bde04)  
 TX-Address: [0xa50797ab74c0a5642cce64f98eb7cda22347fa841e3604f3e98522e4465578c6](https://rinkeby.etherscan.io/tx/0xa50797ab74c0a5642cce64f98eb7cda22347fa841e3604f3e98522e4465578c6)
 
 ## Getting Started
